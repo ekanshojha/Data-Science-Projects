@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data-Science-Project
 # Medical Science Project - Breat Cancer Detection 
 import pandas as pd 
 import numpy as np
